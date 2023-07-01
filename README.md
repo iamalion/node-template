@@ -1,6 +1,6 @@
 # Node Template
 
-By: Stella Marie
+By: Lindsay Warr
 
 Template repo for Node.js project with Webpack, ESLint, Babel, and Jest.
 
@@ -121,4 +121,4 @@ Please report any issues in using this template.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2023 Sm Kou
+Copyright (c) 2023 iamalion

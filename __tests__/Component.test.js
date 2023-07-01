@@ -1,4 +1,4 @@
-import Component from './src/js/bs/Component';
+import Component from '../src/js/bs/Component';
 
 describe("Component", () => {
     before
